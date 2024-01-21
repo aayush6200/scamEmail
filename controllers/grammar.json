@@ -1,0 +1,106 @@
+{
+  "grammarPrompts": [
+    {
+      "prompt": "Identify improper punctuation in the given content.",
+      "weights": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    },
+    {
+      "prompt": "Identify  incorrect use of correct verb tense in the given content.",
+      "weights": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    },
+    {
+      "prompt": "Verify incorrect use of subject-verb agreement in the given content.",
+      "weights": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    },
+    {
+      "prompt": "Examine incorrect sentence structure in the given content.",
+      "weights": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    },
+    {
+      "prompt": "Ensure incorrect use of articles (a, an, the) in the given content.",
+      "weights": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    },
+    {
+      "prompt": "Check for inconsistent use of verb forms in the given content.",
+      "weights": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    },
+    {
+      "prompt": "Identify incorrect use of pronouns in the given content.",
+      "weights": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    },
+    {
+      "prompt": "Identify the incorrect use of conjunctions in the given content.",
+      "weights": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    },
+    {
+      "prompt": "Identify incorrect use of capitalization in the given content.",
+      "weights": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    },
+    {
+      "prompt": "Identify incorrect correct spelling in the given content.",
+      "weights": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    }
+  ],
+  "emotionallyChargedLanguagePrompts": [
+    {
+      "prompt": "Detect emotionally charged language in the given content.",
+      "weights": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    },
+    {
+      "prompt": "Identify urgency in the content.",
+      "weights": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    },
+    {
+      "prompt": "Look for language that creates a sense of panic in the given content.",
+      "weights": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    },
+    {
+      "prompt": "Detect threatening language in the given content.",
+      "weights": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    },
+    {
+      "prompt": "Identify manipulative language in the given content.",
+      "weights": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    },
+    {
+      "prompt": "Look for language that induces fear in the given content.",
+      "weights": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    },
+    {
+      "prompt": "Detect overly persuasive language in the given content.",
+      "weights": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    },
+    {
+      "prompt": "Identify emotionally manipulative phrases in the given content.",
+      "weights": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    },
+    {
+      "prompt": "Detect language aimed at creating anxiety in the given content.",
+      "weights": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    },
+    {
+      "prompt": "Identify language that appeals to sympathy in the given content.",
+      "weights": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    },
+    {
+      "prompt": "Look for language that evokes a sense of urgency in the given content.",
+      "weights": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    },
+    {
+      "prompt": "Detect language that creates a sense of desperation in the given content.",
+      "weights": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    },
+    {
+      "prompt": "Identify language that plays on insecurities in the given content.",
+      "weights": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    },
+    {
+      "prompt": "Detect language that uses exaggerated claims in the given content.",
+      "weights": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    },
+    {
+      "prompt": "Look for language that creates a sense of scarcity in the given content.",
+      "weights": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    }
+  ]
+}
