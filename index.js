@@ -39,8 +39,8 @@ console.log("helloworld server");
 app.use("/user/api", api);
 
 // exports.app = functions.https.onRequest(app);
-server.listen(PORT, () => {
-  console.log("listening on port " + PORT);
+server.listen(1500, '0.0.0.0', () => {
+  console.log('Server listening on port 1500 btw');
 });
 
 // exports.app = functions.https.onRequest(app);
